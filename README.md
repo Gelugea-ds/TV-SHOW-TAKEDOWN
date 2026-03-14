@@ -1,1 +1,9 @@
-# TV-SHOW-TAKEDOWN
+🎬 TV Show Takedown: Who's Running the Streaming Wars?
+You've been hired as the Chief Content Strategist at a brand new streaming startup called StreamVerse. Streaming platforms are flooding screens with thousands of shows, but which ones are actually worth betting money on? Your job is to dig into real TV show data, figure out what separates the legends from the flops, and help StreamVerse make smarter content decisions — no gut feelings allowed, just data.
+Dataset: Dataset
+Objective 1 — The Genre Puzzle (Easy) Explore how different genres perform in terms of ratings and audience reception. Which genres consistently produce quality content and which ones are overrated — and what would you recommend to leadership about where to invest?
+Objective 2 — The Longevity Paradox (Easy) Investigate whether shows that run for more seasons are actually better loved by audiences. Does a longer run mean higher quality, or does the data tell a more complicated story?
+Objective 3 — The Paradox of Visibility (Medium) Some shows are massively hyped but deeply mediocre, while others are quiet masterpieces nobody watched. Map this paradox in the data and identify which category different shows fall into — and what it means for StreamVerse's content strategy.
+Objective 4 — The Nostalgia Question (Medium) Is TV actually getting better over time or are older shows genuinely superior? Analyze how show quality has evolved across different eras and genres and build a data-backed argument for where television is headed.
+Objective 5 — The Success Predictor (Hard) Build a model that predicts how audiences will rate a show based on its measurable characteristics. Identify which features are the strongest predictors of success and visualize their importance — what does the model say actually drives a great show?
+Objective 6 — The Taste Maker (Hard) Build a recommendation engine that suggests shows a viewer would genuinely love after finishing one they enjoyed. Test it with real examples and evaluate whether it creates meaningful recommendations or just obvious ones.
